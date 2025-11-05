@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:football_news_mobile/menu.dart';
-
+import 'package:football_news_mobile/screens/menu.dart';
+// import 'package:football_news_mobile/left_drawer.dart';1
 void main() {
   runApp(const MyApp());
 }
