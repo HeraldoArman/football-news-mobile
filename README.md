@@ -1,6 +1,12 @@
 # football_news_mobile
 
-A new Flutter project.
+[![Build Status](https://app.bitrise.io/app/ee469ed0-3500-4ffa-ba58-c63f41c1b9da/status.svg?token=RGBpl7bEOocnNo6r1HM6bA&branch=main)](https://app.bitrise.io/app/ee469ed0-3500-4ffa-ba58-c63f41c1b9da)
+
+## Download
+Download aplikasi versi terbaru: [Download APK](https://app.bitrise.io/app/ee469ed0-3500-4ffa-ba58-c63f41c1b9da/installable-artifacts/607083a992e294b5/public-install-page/20c6b18e754da77b3a7a418f7f8b1167)
+
+
+
 
 ## Getting Started
 
